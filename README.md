@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Eu sou o Joilson</h1>
-<h3 align="center">Desenvolvedor Web em Formação</h3>
+<h3 align="center">Desenvolvedor Web</h3>
 
 ## Sobre mim
 Olá! Sou Joilson, um entusiasta em tecnologia e estou em uma jornada de aprendizado para me tornar um desenvolvedor web. Atualmente, estou focado em adquirir habilidades nas seguintes áreas:
