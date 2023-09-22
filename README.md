@@ -9,7 +9,7 @@ Olá! Sou Joilson, um entusiasta em tecnologia e estou em uma jornada de aprendi
 - Ciência da Computação
 
 ## Habilidades Técnicas
-Neste momento, estou trabalhando e aprimorando minhas habilidades em:
+Constante evolução e aprimoramento das minhas habilidades em:
 
 - HTML
 - CSS
